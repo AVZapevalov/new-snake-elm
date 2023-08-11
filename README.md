@@ -1,4 +1,4 @@
-# snake-elm-ui
+# new-snake-elm
 
 ## Prerequisites
 
